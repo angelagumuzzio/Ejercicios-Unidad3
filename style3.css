@@ -1,0 +1,3 @@
+nav{background-color: black; color:white; list-style: none; display: flex; padding: 10px;justify-content: center ;}
+.nav-enlace{ color:white; justify-content: space-evenly ; text-decoration: none;padding: 10px 80px;}
+.nav-enlace:hover{color:violet}
